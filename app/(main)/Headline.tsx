@@ -81,7 +81,7 @@ export function Headline() {
       >
         <Balancer>
           我是安德，不知名产品经理，热爱设计、创新、享受生活，以及在未知领域中探索。
-          目前酷爱折腾各类 AI 产品，搭建了一个<PeekabooLink href="https://zolplay.com">公益 AI 项目</PeekabooLink>，
+          目前在折腾各类 AI 产品，搭建了一个<PeekabooLink href="https://chatx.tx88.eu.org">公益 AI 项目</PeekabooLink>，
           免费使用最先进的 AI 模型，包括 GPT-4o、Claude 3.5、Gemini Pro、llama3 等，让你的创意无限发挥。
         </Balancer>
       </motion.p>
